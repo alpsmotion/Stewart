@@ -1,0 +1,2 @@
+# Stewart
+This Stewart platform was contributed by Dr Ameer, The main purpose was to make a prototype as a rocking chair chassis , due to this prototype was used for proof of concept. So every component is low cost .  Main components include 6 nos brush drive actuators, ardunio electronics. This is an open source project. We upload all the code in Github.  for reference how we make, please refer to this video: https://www.youtube.com/watch?v=62RZrafzUbc
